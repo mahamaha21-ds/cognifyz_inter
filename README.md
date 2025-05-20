@@ -1,6 +1,7 @@
 # cognifyz_inter
 
-## LEVEL 1 Task 1: String Reversal
+## LEVEL 1 
+## Task 1: String Reversal
  Creating a python function that takes a string as input and returns the reverse of that string.
 
 ## Task 2: Temperature Conversion
