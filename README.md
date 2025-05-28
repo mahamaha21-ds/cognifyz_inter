@@ -15,3 +15,19 @@
 
 ## Task 5: Palindrome Checker
  Creating a python function that checks whether a given string is a palindrome.
+
+## LEVEL 2
+## TASK 1: Guessing Game
+ Python program that generates a random number between 1 and 100.
+
+## TASK 2: Number Guesser
+ Number guessing game where the program generates a random number between a specified range, and the user tries to guess it.
+
+## TASK 3: Password Strength Checker
+ Python function that evaluates the strength of a password entered by the user.
+
+## TASK 4: Fibonacci Sequence
+ Python function that generates the Fibonacci sequence up to a given number of terms.
+
+## TASK 5: File Manipulation
+ Python program that reads a text file and counts the occurrences of each word in the file.
